@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	  <langVersion>13</langVersion>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Title>LIN.Cloud.SDK</Title>
+	  <Company>LIN Platform</Company>
+	  <Authors>Alex Giraldo</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Global.Http" Version="3.2.0" />
+    <PackageReference Include="LIN.Types" Version="1.6.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Primitives" Version="9.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIN.Cloud.SDK", "LIN.Cloud.SDK\LIN.Cloud.SDK.csproj", "{5449A350-256C-452F-9B9D-354D278CC481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIN.Cloud.Example.Client", "LIN.Cloud.Example.Client\LIN.Cloud.Example.Client.csproj", "{F1243C81-0CF5-42BE-84BA-CDACA612A9A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5449A350-256C-452F-9B9D-354D278CC481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5449A350-256C-452F-9B9D-354D278CC481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5449A350-256C-452F-9B9D-354D278CC481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5449A350-256C-452F-9B9D-354D278CC481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1243C81-0CF5-42BE-84BA-CDACA612A9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1243C81-0CF5-42BE-84BA-CDACA612A9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1243C81-0CF5-42BE-84BA-CDACA612A9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1243C81-0CF5-42BE-84BA-CDACA612A9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
