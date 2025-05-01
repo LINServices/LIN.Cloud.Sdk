@@ -11,7 +11,7 @@ public static class Extensions
         var options = new Options()
         {
             Key = key,
-            Url = "https://cloud.api.linplatform.com",
+            Url = "https://buckets.api.linplatform.com",
             MinutesTimeOut = minutes
         };
 
