@@ -11,9 +11,9 @@
 
   <ItemGroup>
     <PackageReference Include="Global.Http" Version="3.9.0" />
-    <PackageReference Include="LIN.Types" Version="2.1.0" />
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.4" />
-    <PackageReference Include="Microsoft.Extensions.Primitives" Version="9.0.4" />
+    <PackageReference Include="LIN.Types" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Primitives" Version="9.0.9" />
   </ItemGroup>
 
 </Project>

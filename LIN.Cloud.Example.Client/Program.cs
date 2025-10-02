@@ -3,8 +3,7 @@ using LIN.Cloud.SDK;
 
 Client client = new(new Options()
 {
-    Key = " key.iQ6PX2bnrqfZQWgBq7MQD619tCpnu9k",
-    Url = "https://cloud.api.linplatform.com"
+    Key = " key.iQ6PX2bnrqfZQWgBq7MQD619tCpnu9k"
 });
 
 Console.WriteLine("Nombre del archivo:");
